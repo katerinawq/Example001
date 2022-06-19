@@ -1,0 +1,15 @@
+/Users/ekaterina/Desktop/Examples/Example005_IfElse/bin/Debug/net6.0/Example005_IfElse
+/Users/ekaterina/Desktop/Examples/Example005_IfElse/bin/Debug/net6.0/Example005_IfElse.deps.json
+/Users/ekaterina/Desktop/Examples/Example005_IfElse/bin/Debug/net6.0/Example005_IfElse.runtimeconfig.json
+/Users/ekaterina/Desktop/Examples/Example005_IfElse/bin/Debug/net6.0/Example005_IfElse.dll
+/Users/ekaterina/Desktop/Examples/Example005_IfElse/bin/Debug/net6.0/Example005_IfElse.pdb
+/Users/ekaterina/Desktop/Examples/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.csproj.AssemblyReference.cache
+/Users/ekaterina/Desktop/Examples/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterina/Desktop/Examples/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.AssemblyInfoInputs.cache
+/Users/ekaterina/Desktop/Examples/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.AssemblyInfo.cs
+/Users/ekaterina/Desktop/Examples/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.csproj.CoreCompileInputs.cache
+/Users/ekaterina/Desktop/Examples/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.dll
+/Users/ekaterina/Desktop/Examples/Example005_IfElse/obj/Debug/net6.0/refint/Example005_IfElse.dll
+/Users/ekaterina/Desktop/Examples/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.pdb
+/Users/ekaterina/Desktop/Examples/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.genruntimeconfig.cache
+/Users/ekaterina/Desktop/Examples/Example005_IfElse/obj/Debug/net6.0/ref/Example005_IfElse.dll
